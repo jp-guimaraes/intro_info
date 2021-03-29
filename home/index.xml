@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Introdução ao Computador</title>
+    <link>https://jp-guimaraes.github.io/slides_intro_info/home/</link>
+    <description>Recent content in Homes on Introdução ao Computador</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://jp-guimaraes.github.io/slides_intro_info/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_intro_info/home/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_intro_info/home/intro/</guid>
+      <description> Objetivos Entender os componentes básicas de um computador.
+Conhecer mídias de armazenamento
+Estudar fundamentos e funções de um sistema operacional
+ Sumário  O que é um computador? Componentes básicos de um sistema computacional Tipos de Memórias Mídias de armazenamento Sistemas Operacionais   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_intro_info/home/computador/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_intro_info/home/computador/</guid>
+      <description>Foi notícia “Cyberpunk 2077, um dos jogos eletrônicos mais aguardados da história &amp;hellip; &amp;ldquo;
+ 💸
+Preço de um PC capaz de rodar Cyberpunk 2077: R$ 4450,00
+Preço do Xbox Series X: R$ 4999,00; Series S: R$ 2999,00
+ Um videogame é um computador? Ou um computador é um videogame?
+Afinal, o que é um computador?  Definição do dicionário de Oxford:
+ o que computa; calculador, calculista. (no contexto de informática) máquina destinada ao processamento de dados, capaz de obedecer a instruções que visam produzir certas transformações nesses dados para alcançar um fim determinado.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_intro_info/home/hd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_intro_info/home/hd/</guid>
+      <description>Tipos de armazenamento secundário  Disco Rígido Hard disk (HD)
+Natureza magnética
+ Componentes Importante: Partes móveis
+ Endereço do dado Discos, Faces, Trilhas, Setores,
+   Dados nos discos Leitura complementar
+ Unidade de armazenamento O que é usado na arquitetura do computador x O que é usado pelos fabricantes (sistema internacional de medidas)
+[kibibyte](https://pt.wikipedia.org/wiki/Byteeu já )
+ Vídeo complementar Histório 1000 vs 1024
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_intro_info/home/flash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_intro_info/home/flash/</guid>
+      <description> Memória Flash Características:
+ Não volátil Não possuem partes móveis Baixo custo (ainda maior do que HD) Volume reduzido Baixo consumo energético Alta resistência (Durabilidade, segurança)  Desvantagens:
+ Número limitado de operações de leitura/escrita Energização periódica   Onde são usadas? Substituição de ROMs (Placa mãe, microcontroladores, dispositivos embarcados)
+Dispositivos portáteis (pendrive, Flashdrive, Armazenamento externo)
+SSD (Solid State Disk)
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_intro_info/home/oticas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_intro_info/home/oticas/</guid>
+      <description> Mídias óticas  Características Diferentes tecnologias
+Capacidade de Armazenamento
+Velocidade
+ROM, R, RW
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_intro_info/home/nuvem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_intro_info/home/nuvem/</guid>
+      <description> Nuvem O que é armazenamento na nuvem?
+Tecnologias envolvidas?
+ Preços Google drive
+One drive
+Dropbox
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_intro_info/home/so/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_intro_info/home/so/</guid>
+      <description> Sistemas Operacionais O que são?
+ SO Interface entre Hardware e os demais softwares/usuários
+ quais os sistemas operacionais atuais? Requisitos &amp;amp; aplicações
+Interfaces de uso
+Estatísticas
+ </description>
+    </item>
+    
+  </channel>
+</rss>
